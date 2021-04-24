@@ -1,0 +1,150 @@
+{
+  "usuarios": [
+    {
+      "name": "victor",
+      "lastname": "garcia",
+      "mail": "victor@gmail.com",
+      "username": "victor@gmail.com",
+      "password": "12345",
+      "age": "22",
+      "sexo": "",
+      "id": 1,
+      "turnostatus": "aceptado",
+      "turno": {
+        "establecimientoid": "4040246",
+        "establecimiento": "HOSPITAL MEDICA UNIVERSIDAD",
+        "hora": "9:00"
+      }
+    },
+    {
+      "name": "Administrador",
+      "lastname": "del sistema",
+      "mail": "admin@gmail.com",
+      "username": "admin@gmail.com",
+      "password": "password",
+      "age": "22",
+      "sexo": "",
+      "id": 0
+    },
+    {
+      "name": "Usuario",
+      "lastname": "2",
+      "mail": "correo2@gmail.com",
+      "username": "correo2@gmail.com",
+      "password": "12345",
+      "age": "22",
+      "sexo": "",
+      "id": 2
+    },
+    {
+      "name": "Usuario",
+      "lastname": "2",
+      "mail": "correo2@gmail.com",
+      "username": "correo2@gmail.com",
+      "password": "12345",
+      "age": "22",
+      "sexo": "",
+      "id": 3
+    },
+    {
+      "name": "Usuario",
+      "lastname": "2",
+      "mail": "correo2@gmail.com",
+      "username": "correo2@gmail.com",
+      "password": "12345",
+      "age": "22",
+      "sexo": "",
+      "id": 4
+    },
+    {
+      "name": "Usuario",
+      "lastname": "2",
+      "mail": "correo2@gmail.com",
+      "username": "correo2@gmail.com",
+      "password": "12345",
+      "age": "22",
+      "sexo": "",
+      "id": 5
+    },
+    {
+      "name": "Usuario",
+      "lastname": "2",
+      "mail": "correo2@gmail.com",
+      "username": "correo2@gmail.com",
+      "password": "12345",
+      "age": "22",
+      "sexo": "",
+      "id": 6
+    },
+    {
+      "name": "Usuario",
+      "lastname": "2",
+      "mail": "correo2@gmail.com",
+      "username": "correo2@gmail.com",
+      "password": "12345",
+      "age": "22",
+      "sexo": "",
+      "id": 7
+    },
+    {
+      "name": "Usuario",
+      "lastname": "2",
+      "mail": "correo2@gmail.com",
+      "username": "correo2@gmail.com",
+      "password": "12345",
+      "age": "22",
+      "sexo": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "lastname": "",
+      "mail": "",
+      "username": "",
+      "password": "",
+      "age": "",
+      "sexo": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "lastname": "",
+      "mail": "",
+      "username": "",
+      "password": "",
+      "age": "",
+      "sexo": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "lastname": "",
+      "mail": "",
+      "username": "",
+      "password": "",
+      "age": "",
+      "sexo": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "lastname": "",
+      "mail": "",
+      "username": "",
+      "password": "",
+      "age": "",
+      "sexo": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "lastname": "",
+      "mail": "",
+      "username": "",
+      "password": "",
+      "age": "",
+      "sexo": "",
+      "id": 13
+    }
+  ]
+}
